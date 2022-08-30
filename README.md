@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedaliomar](https://www.kaggle.com/ahmedaliomar)
+- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/ahmedaliomar)
 
 - 💬 Ask me about **Machine Learning, OpenCV, Computer Vision**
 
