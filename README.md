@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Omar</h1>
 <h3 align="center">ML & Computer Vision Engineer from Egypt</h3>
 
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1FX5QOwDVJ5zwvbYAGzawC82BZ__6mY3e/view?usp=sharing">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaliomar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaliomar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/titoali060" target="blank"><img src="https://img.shields.io/twitter/follow/titoali060?logo=twitter&style=for-the-badge" alt="titoali060" /></a> </p>
