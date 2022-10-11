@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Omar</h1>
 <h3 align="center">ML & Computer Vision Engineer from Egypt</h3>
 
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/AhmedAliOmar/AhmedAliOmar/blob/main/Coding%20Scool%20.jpg))
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaliomar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaliomar" /> </p>
