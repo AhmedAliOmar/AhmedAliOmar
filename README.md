@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Omar</h1>
-<h3 align="center">ML & Computer Vision Engineer from Egypt</h3>
+<h3 align="center">AI Instructor @Huawei ICT Academy | Expert 3 @Kaggle | Computer Vision Head @IEEE | Member @GDSC</h3>
 
 
 
